@@ -6,13 +6,13 @@ Stonehouse Studio aims to develop tools to restore trust and integrity to the on
 
 ## Product: Interview Proctor
 
-In today's hiring landscape, the proliferation of AI-powered cheating tools can cast undue suspicion on candidates, making it difficult for interviewers to trust the authenticity of online assessments. Even normal candidate behaviors can be misinterpreted. The Interview Proctor restores integrity and confidence to the online interview process.
+In today's hiring landscape, the proliferation of AI-powered cheating tools can cast undue suspicion on candidates, making it difficult for interviewers to trust the authenticity of online assessments (see news: [Meet the 21-year-old helping coders user AI to cheat in Google and other tech job interviews](https://www.cnbc.com/2025/03/09/google-ai-interview-coder-cheat.html)). Even normal candidate behaviors can be misinterpreted. The Interview Proctor restores integrity and confidence to the online interview process.
 
 Our solution is designed to create a fair and transparent environment for both interviewers and candidates. The Interview Proctor add-on seamlessly guides candidates to download a secure proctoring agent to their computer before the interview begins.
 
-### Hot It Works
+### How It Works
 
-Once initiated, the Interview Proctor agent monitors system activities for the duration of the interview. It securely gathers relevant information, including periodic screenshots and data on running applications, to detect the presence of unauthorized assistance tools. This information is compiled into a comprehensive report for the interviewer.
+Once initiated, the Interview Proctor agent monitors system activities for the duration of the interview. It securely gathers relevant information, including periodic screenshots and data on running applications, to detect the presence of unauthorized assistance tools. This information is compiled and reported to the interviewer.
 
 ### The Benefit
 

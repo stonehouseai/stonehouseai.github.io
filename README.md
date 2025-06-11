@@ -25,5 +25,6 @@ It's free during the trial. We will update the pricing soon.
 ## Contact
 
 Please feel free to reach:
-Email: stonehouseaistudio@gmail.com
-Issue: https://github.com/stonehouseai/stonehouseai.github.io/issues
+
+*  Email: stonehouseaistudio@gmail.com
+*  Issue: https://github.com/stonehouseai/stonehouseai.github.io/issues

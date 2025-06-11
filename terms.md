@@ -41,7 +41,7 @@ Subject to your full compliance with these Terms, we grant you a limited, non-ex
 * **Data Collected:** As detailed in Section 1, the Software collects Candidate Data.  
 * **Purpose of Collection:** Candidate Data is collected and transmitted to the Interviewer to assist in the fair and effective evaluation of the Candidate's skills, abilities, and engagement during an interview.  
 * **Data Handling and Transmission:** Candidate Data is transferred from the Candidate's computer to our backend server and then made accessible to the Interviewer. We will implement commercially reasonable technical and organizational measures to protect the security, confidentiality, and integrity of Candidate Data during its transmission and temporary storage (if any) on our servers. However, no method of transmission over the Internet or method of electronic storage is 100% secure.  
-* **Privacy Policy:** Your use of the Software is also governed by our Privacy Policy available at [https://binp.github.io/aiproctor/privacy-policy.html](https://binp.github.io/aiproctor/privacy-policy.html), which is incorporated by reference into these Terms. Please review the Privacy Policy to understand our practices concerning the collection and use of information.  
+* **Privacy Policy:** Your use of the Software is also governed by our Privacy Policy available at [https://stonehouseai.github.io/#/privacy](https://stonehouseai.github.io/#/privacy), which is incorporated by reference into these Terms. Please review the Privacy Policy to understand our practices concerning the collection and use of information.  
 * **Data Retention:** Candidate Data is primarily intended for real-time viewing by the Interviewer. We will define and adhere to a data retention policy for any Candidate Data that may be temporarily stored on our backend servers, aiming to minimize the storage period. Candidate Data is deleted within 180 days after the interview concludes.
 
 **5\. Consent**
@@ -114,7 +114,7 @@ If any provision of these Terms is held by a court or other tribunal of competen
 
 **15\. Entire Agreement**
 
-These Terms, together with [our Privacy Policy](https://binp.github.io/aiproctor/privacy-policy.html), constitute the sole and entire agreement between you and Stonehouse Studio regarding the Software and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Software.
+These Terms, together with [our Privacy Policy](https://stonehouseai.github.io/#/privacy), constitute the sole and entire agreement between you and Stonehouse Studio regarding the Software and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Software.
 
 **16\. No Waiver**
 

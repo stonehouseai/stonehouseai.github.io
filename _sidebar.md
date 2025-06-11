@@ -1,4 +1,4 @@
-* **[Home](README.md)
+* **[Home](README.md)**
 
 * **Interview Proctor**
   * [Terms of Service](terms.md)

@@ -2,7 +2,7 @@
 
 ## Mission
 
-Stonehouse Stuido aims to develop tools to restore trust and integrity back to the online interview in the age of AI.
+Stonehouse Studio aims to develop tools to restore trust and integrity to the online interview in the age of AI.
 
 ## Product: Interview Proctor
 

@@ -4,7 +4,7 @@
 
 Stonehouse Studio aims to develop tools to restore trust and integrity to the online interview in the age of AI.
 
-Sometimes, we also call it as "Stonehouse AI Studio".
+Sometimes, we call ourselves as "Stonehouse AI Studio".
 
 ## Product: Interview Proctor
 

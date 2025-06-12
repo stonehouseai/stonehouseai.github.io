@@ -105,8 +105,8 @@ We implement commercially reasonable security measures to protect data, includin
 
 If you encounter any issues or have questions about Interview Proctor, please contact our support team.
 
-* **Email Support:** For all inquiries, please email us at **stonehouseaistudio@gmail.com**.
-* **Issues:** You can also file a issue on: [https://github.com/stonehouseai/stonehouseai.github.io/issues](https://github.com/stonehouseai/stonehouseai.github.io/issues).
+* **Email Support:** For all inquiries, please email us at **support@stonehouseai.com**.
+* **Issues:** You can also file a issue on: [https://github.com/stonehouseai/interview-proctor/issues](https://github.com/stonehouseai/interview-proctor/issues).
 * **Expected Response Time:** We aim to respond to all support requests within 48 business hours.
 * **Troubleshooting:** Before contacting support, please ensure you are using a supported web browser (latest version of Chrome, Firefox, or Edge) and that you have granted the necessary permissions when prompted by Google Meet and your operating system.
 

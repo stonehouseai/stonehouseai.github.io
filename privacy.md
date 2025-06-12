@@ -108,4 +108,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-Stonehouse Studio (stonehouseaistudio@gmail.com)
+Stonehouse Studio (support@stonehouseai.com)

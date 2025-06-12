@@ -122,4 +122,4 @@ No waiver by Stonehouse Studio of any term or condition set out in these Terms s
 
 **17\. Contact Information**
 
-If you have any questions about these Terms, please contact us at: [stonehouseaistudio@gmail.com](mailto:stonehouseaistudio@gmail.com).
+If you have any questions about these Terms, please contact us at: [info@stonehouseai.com](mailto:info@stonehouseai.com).

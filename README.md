@@ -4,6 +4,8 @@
 
 Stonehouse Studio aims to develop tools to restore trust and integrity to the online interview in the age of AI.
 
+Sometimes, we also call it as "Stonehouse AI Studio".
+
 ## Product: Interview Proctor
 
 In today's hiring landscape, the proliferation of AI-powered cheating tools can cast undue suspicion on candidates, making it difficult for interviewers to trust the authenticity of online assessments (see news: [Meet the 21-year-old helping coders user AI to cheat in Google and other tech job interviews](https://www.cnbc.com/2025/03/09/google-ai-interview-coder-cheat.html)). Even normal candidate behaviors can be misinterpreted. The Interview Proctor restores integrity and confidence to the online interview process.
@@ -16,7 +18,7 @@ Once initiated, the Interview Proctor agent monitors system activities for the d
 
 ### The Benefit
 
-This real-time, objective monitoring provides verifiable proof of the candidate's integrity. By confirming that no cheating tools were used, interviewers can confidently trust the skills and capabilities demonstrated. This allows candidates to showcase their genuine talents without suspicion, ensuring that hiring decisions are based on true merit.
+This real-time, objective monitoring provides verifiable proof of the candidate's integrity. By confirming that no cheating tools were used, interviewers can confidently trust the skills and capabilities that the candidate demonstrated. This allows candidates to showcase their genuine talents without suspicion, ensuring that hiring decisions are based on their merit.
 
 ### Pricing
 
@@ -26,5 +28,5 @@ It's free during the trial. We will update the pricing soon.
 
 Please feel free to reach:
 
-*  Email: stonehouseaistudio@gmail.com
-*  Issue: https://github.com/stonehouseai/stonehouseai.github.io/issues
+*  Email: info@stonehouseai.com
+*  Issue: https://github.com/stonehouseai/interview-proctor/issues

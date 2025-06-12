@@ -41,13 +41,9 @@ This guide provides step-by-step instructions for all users.
 
 **For macOS:** (To be updated after codesign the package)
 
-* Our macOS application is not yet code-signed by Apple. Because of this, you need to disable System Integrity Protection (SIP) for a workaround:
+* Our macOS application is not yet code-signed by Apple. Currently, please follow [this](https://developer.apple.com/documentation/security/disabling-and-enabling-system-integrity-protection) to disable System Integrity Protection (SIP) for a workaround.
 
-    ```bash
-    csrutil disable
-    ```
-
-Then, you can double click to install from the macOS package: `InterviewProctor-Universal.pkg`.
+Then, double click to install this macOS package: `InterviewProctor-Universal.pkg`.
 
 * **Permissions:** During or after installation, your Mac will prompt you to grant necessary permissions (e.g., **Screen Recording**, **Accessibility**). These are **required** for the app to function. You can manage these permissions in `System Settings > Privacy & Security`.
 
